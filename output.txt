@@ -1,0 +1,10 @@
+Sample input:
+200 5000
+2
+1000 0
+1000 1
+
+Expected output:
+Enter normal tariff (paise/kWh) and fixed charge (paise): Enter number of intervals: Interval 1: enter watt-hours and peak flag (0/1): Interval 2: enter watt-hours and peak flag (0/1): Normal use: 1000 Wh
+Peak use: 1000 Wh
+Total bill: Rs 51.44
